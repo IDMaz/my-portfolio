@@ -3,9 +3,9 @@ import { HomeIcon, PencilLineIcon, CodeIcon } from "lucide-react";
 
 
 export const DATA = {
-  name: "Wildan Nursahidan",
-  initials: "WNN",
-  url: "https://wildan.me",
+  name: "Azwar Anas",
+  initials: "MAZ",
+  url: "https://maz.my.id",
   location: "West Java, Indonesia",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
