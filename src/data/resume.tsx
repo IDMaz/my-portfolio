@@ -79,7 +79,7 @@ export const DATA = {
         "Learn and Applying MEMS 3D Sensor, make program using HALCON APPS",
     },
     {
-      company: "The Association for Overseas Technical Cooperation (AOTS)",
+      company: "AOTS",
       badges: [],
       href: "https://www.aots.jp/",
       location: "Remote",
@@ -88,7 +88,7 @@ export const DATA = {
       start: "Mei 2024",
       end: "June 2024",
       description:
-        "Japanese language and culture learning and on-site technical training.",
+        "The Association for Overseas Technical Cooperation is program to learning Japanese language, Japanese culture and on-site technical training.",
     },
   ],
   education: [
