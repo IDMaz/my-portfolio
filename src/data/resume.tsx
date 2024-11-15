@@ -9,17 +9,18 @@ export const DATA = {
   location: "West Java, Indonesia",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "a Frontend Developers and Wordpress Enthusiast. I love building things and helping people. Very active on Telegram.",
+    "a Vision Systems Specialist and PLC Programmer. I love building things and helping people.",
   summary:
-    "From 2019 until now, I have spent a lot of time and money learning web design. I am a creator of WordPress templates [marketpress themes](https://github.com/mywildancloud/marketpress), I also have a plugin library for elementor [mplibrary](https://github.com/mywildancloud/mplibrary), But don't worry if you are one of the users of Gutenberg or FSE based templates such as GeneratePress, I have created a ChildTheme [GP_Personaa](https://github.com/mywildancloud/GP_Personaa) it's free for you to use.",
+    "I have been experienced Automation Engineer since 2016 with a demonstrated history of working in the electrical and electronic manufacturing industry. Have strong commitment to work and learn something new in order to improve knowledge and skills.",
   avatarUrl: "/me.png",
   skills: [
-    "React",
-    "Next.js",
-    "Typescript",
-    "TailwindCSS",
+    "Computer Vision",
+    "Robotic",
+    "PLC",
+    "HMI Programming",
+    "IoT",
+    "Industrial Automation",
     "Git",
-    "Figma",
     "Wordpress",
   ],
   navbar: [
@@ -28,30 +29,24 @@ export const DATA = {
     { href: "/blog", icon: PencilLineIcon, label: "Blog" },
   ],
   contact: {
-    email: "edpwildan@gmail.com",
-    tel: "+6285186666941",
+    email: "hubungiazwar@gmail.com",
+    tel: "+6285730873034",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com/mywildancloud",
+        url: "https://github.com/idmaz",
         icon: Icons.github,
         navbar: true,
       },
       Telegram: {
         name: "Telegram",
-        url: "https://t.me/wildannrs",
+        url: "https://t.me/mosose",
         icon: Icons.x,
         navbar: false,
       },
-      Youtube: {
-        name: "Youtube",
-        url: "https://www.youtube.com/@wildan.nrs_",
-        icon: Icons.youtube,
-        navbar: true,
-      },
       Email: {
         name: "Send Email",
-        url: "mailto:edpwildan@gmailcom",
+        url: "mailto:hubungiazwar@gmailcom",
         icon: Icons.email,
         navbar: true,
       },
