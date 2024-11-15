@@ -24,7 +24,7 @@ export default function PageProjects() {
               </div>
             </div>
           </BlurFade>
-          <div className="grid grid-cols-1 gap-3 sm:grid-cols-2 max-w-[800px] mx-auto">
+           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Wait, still progress to show here.
             </p>
