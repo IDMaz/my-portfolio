@@ -36,7 +36,7 @@ export const DATA = {
         name: "GitHub",
         url: "https://github.com/idmaz",
         icon: Icons.x,
-        navbar: true,
+        navbar: false,
       },
       Telegram: {
         name: "Telegram",
@@ -126,127 +126,7 @@ export const DATA = {
     },
   ],
   projects: [
-    {
-      title: "My Portfolio",
-      href: "https://me-wildan.vercel.app/",
-      dates: "28 Okt 2024 -  30 Okt 2024",
-      active: true,
-      description:
-        "Developed a personal portfolio website using Next.js, TypeScript, and Tailwind CSS. This template is open source and available on GitHub.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://me-wildan.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/mywildancloud/my-portofolio",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNkZm93eHJlamtlamhucnB4Ym5xamdyenhqd3BrNjNmbGRjYWcwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QtSyqQC5gK3mT49hdJ/giphy.mp4",
-    },
-    {
-      title: "Ortoo Links",
-      href: "https://ortoolinks.vercel.app/",
-      dates: "01 Nov 2024 - 02 Nov 2024",
-      active: true,
-      description:
-        "Biolink template for digital product listings such as ebooks, video courses and digital downloads complete with checkout to external links.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://ortoolinks.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Buy this template",
-          href: "https://t.me/wildannrs",
-          icon: <Icons.download className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam40MXlranNrcGtydDVtcTU4d3VibXFqajJpZ3h3OGM2YjltNnYwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nIoccBCOnlPvuVHzAf/giphy.mp4",
-    },
-    {
-      title: "llm.report",
-      href: "https://llm.report",
-      dates: "April 2023 - September 2023",
-      active: true,
-      description:
-        "Developed an open-source logging and analytics platform for OpenAI: Log your ChatGPT API requests, analyze costs, and improve your prompts.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://llm.report",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/dillionverma/llm.report",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "",
-      video: "https://cdn.llm.report/openai-demo.mp4",
-    },
-    {
-      title: "Automatic Chat",
-      href: "https://automatic.chat",
-      dates: "April 2023 - March 2024",
-      active: true,
-      description:
-        "Developed an AI Customer Support Chatbot which automatically responds to customer support tickets using the latest GPT models.",
-      technologies: [
-        "Next.js",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Shadcn UI",
-        "Magic UI",
-        "Stripe",
-        "Cloudflare Workers",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://automatic.chat",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/automatic-chat.mp4",
-    },
+    
   ],
   workdesk: [
     {
@@ -255,17 +135,7 @@ export const DATA = {
       description:
         "I'm used to using this laptop to complete every project, because what I need is all here and I feel comfortable.",
       image:
-        "/apple.svg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      tagline: "design tools",
-      title: "Figma",
-      description:
-        "I usually use Figma to create wireframes and to build UI-UX designs before applications or websites are created.",
-      image:
-        "/figma.svg",
+        "/dell.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
