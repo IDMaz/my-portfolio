@@ -35,7 +35,7 @@ export const DATA = {
       GitHub: {
         name: "GitHub",
         url: "https://github.com/idmaz",
-        icon: Icons.github,
+        icon: Icons.x,
         navbar: true,
       },
       Telegram: {
@@ -60,7 +60,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Automation Engineering",
-      logoUrl: "/addonspro.png",
+      logoUrl: "/epson.jpg",
       start: "March 2016",
       end: "Until Now",
       description:
@@ -72,7 +72,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Automation Technology Development",
-      logoUrl: "/acl.png",
+      logoUrl: "/epson.jpg",
       start: "Jun 2024",
       end: "August 2024",
       description:
@@ -84,7 +84,7 @@ export const DATA = {
       href: "https://www.aots.jp/",
       location: "Remote",
       title: "Trainee",
-      logoUrl: "/indomaret.png",
+      logoUrl: "/aots.jpg",
       start: "Mei 2024",
       end: "June 2024",
       description:
