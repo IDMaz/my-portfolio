@@ -11,14 +11,14 @@ export const DATA = {
   description:
     "a Vision Systems Specialist and PLC Programmer. I love building things and helping people.",
   summary:
-    "I have been experienced Automation Engineer since 2016 with a demonstrated history of working in the electrical and electronic manufacturing industry. Have strong commitment to work and learn something new in order to improve knowledge and skills.",
+    "I have been experienced Automation Engineer since 2016 with a demonstrated history of working in the manufacturing industry. Have strong commitment to work and learn something new in order to improve knowledge and skills.",
   avatarUrl: "/me.png",
   skills: [
     "Computer Vision",
     "Robotic",
+    "IoT",
     "PLC",
     "HMI Programming",
-    "IoT",
     "Industrial Automation",
     "Git",
     "Wordpress",
@@ -55,66 +55,74 @@ export const DATA = {
 
   work: [
     {
-      company: "Addons Sejoli Pro",
-      href: "https://addonsejoli.pro/",
+      company: "PT Indonesia Epson Industry",
+      href: "https://www.epson.co.id/",
       badges: [],
       location: "Remote",
-      title: "Freelance User Guides",
+      title: "Automation Engineering",
       logoUrl: "/addonspro.png",
-      start: "January 2022",
+      start: "March 2016",
       end: "Until Now",
       description:
-        "Addons Pro is an agency that operates in the field of creating WordPress plugins to complete the functions of the Sejoli plugin. My job is to create product usage documentation related to plugins.",
+        "Create an Auotmation system designs by conducting research and development for support production, increase productivity and reduce production cost.",
     },
     {
-      company: "PT Albany Corona Lestari",
-      href: "https://mobile.acl.co.id/",
+      company: "Seiko Epson Corporation",
+      href: "https://www.epson.jp/",
       badges: [],
       location: "Remote",
-      title: "Maintenance",
+      title: "Automation Technology Development",
       logoUrl: "/acl.png",
-      start: "March 2018",
-      end: "Until Now",
+      start: "Jun 2024",
+      end: "August 2024",
       description:
-        "Tasked with building maintenance and repairs for Indomaret stores including CCTV, alarms and building facilities, both electrical and civil.",
+        "Learn and Applying MEMS 3D Sensor, make program using HALCON APPS",
     },
     {
-      company: "PT Indomarco Prismatama",
+      company: "The Association for Overseas Technical Cooperation (AOTS)",
       badges: [],
-      href: "https://www.indomaret.co.id/",
+      href: "https://www.aots.jp/",
       location: "Remote",
-      title: "Electronic Data Processing",
+      title: "Trainee",
       logoUrl: "/indomaret.png",
-      start: "July 2015",
-      end: "March 2018",
+      start: "Mei 2024",
+      end: "June 2024",
       description:
-        "Actually, until now I am still working under the Indomaret group company. However, my current job is managing and monitoring the network interface from the Indomaret store to the branch server.",
+        "Japanese language and culture learning and on-site technical training.",
     },
   ],
   education: [
     {
-      school: "SMK MedikaCom",
+      school: "School1",
       href: "#education",
-      degree: "Computer and Network Engineering",
+      degree: "University",
       logoUrl: "/dot.svg",
-      start: "2009",
-      end: "2012",
+      start: "2011",
+      end: "2015",
     },
     {
-      school: "SMP Sebelas Maret",
+      school: "School2",
+      href: "#education",
+      degree: "Senior high school",
+      logoUrl: "/dot.svg",
+      start: "2008",
+      end: "2011",
+    },
+    {
+      school: "School2",
       href: "#education",
       degree: "Junior high school",
       logoUrl: "/dot.svg",
-      start: "2006",
-      end: "2009",
+      start: "2005",
+      end: "2008",
     },
     {
-      school: "SDN 1 Mengger Girang",
+      school: "School3",
       href: "#education",
       degree: "Basic education",
       logoUrl: "/dot.svg",
-      start: "2000",
-      end: "2006",
+      start: "1999",
+      end: "2005",
     },
   ],
   projects: [
@@ -243,9 +251,9 @@ export const DATA = {
   workdesk: [
     {
       tagline: "16GB Ram, 256GB SSD",
-      title: "Macbook Pro i7 - 2015",
+      title: "DELL Precicion 3581",
       description:
-        "I'm used to using MacOS to complete every project, because what I need is all here and I feel comfortable.",
+        "I'm used to using this laptop to complete every project, because what I need is all here and I feel comfortable.",
       image:
         "/apple.svg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
@@ -288,26 +296,6 @@ export const DATA = {
         "I will share every open source project through an online repository and among the many gits, github is the one I like the most.",
       image:
         "/github.svg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      tagline: "terminal",
-      title: "iTerm",
-      description:
-        "Even though macOS has a built-in terminal, I prefer iTerm when I write CLI commands.",
-      image:
-        "/iterm.svg",
-      mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
-    },
-    {
-      tagline: "hosted",
-      title: "Vercel",
-      description:
-        "I will deploy every project created using the Nextjs and tailwindCSS frameworks on vercel.",
-      image:
-        "/vercel.svg",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
