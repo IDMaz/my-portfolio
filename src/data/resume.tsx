@@ -9,7 +9,7 @@ export const DATA = {
   location: "West Java, Indonesia",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "a Vision Systems Specialist and PLC Programmer. I love building things and helping people.",
+    "Vision Systems Specialist and PLC Programmer. I love building things and helping people.",
   summary:
     "I have been experienced Automation Engineer since 2016 with a demonstrated history of working in the manufacturing industry. Have strong commitment to work and learn something new in order to improve knowledge and skills.",
   avatarUrl: "/me.png",
