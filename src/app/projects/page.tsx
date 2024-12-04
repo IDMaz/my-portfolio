@@ -26,7 +26,7 @@ export default function PageProjects() {
           </BlurFade>
            <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <h5 className="text-3xl font-bold tracking-tighter sm:text-5xl">
-                  Wait... I&apos; still update to show here.
+                  Wait... I&apos;m still update to show here.
             </h5>
           </div>
         </div>
